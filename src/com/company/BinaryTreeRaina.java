@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
+// The contructor for the class
 public class BinaryTreeRaina {
     private class Node{
         int data;
